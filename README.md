@@ -10,7 +10,8 @@ Simple html deface with 16 lines of code.
 ```html
 <html>
 <head>
-<title>Owned by svrndev</title>
+<title>Owned by Alter
+</title>
 </head>
 <body>
 
@@ -19,7 +20,7 @@ Simple html deface with 16 lines of code.
 
 
 <center><font size="9" color="white" face="courier"/>Owned By
-<center><font size="9" color="gray" />>_Svrn/
+<center><font size="9" color="gray" />>_Alter/
 
 
 </body>
